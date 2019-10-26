@@ -1,25 +1,6 @@
 Anomaly Detection Learning Resources
 ====================================
 
-.. image:: https://img.shields.io/github/stars/yzhao062/anomaly-detection-resources.svg
-   :target: https://github.com/yzhao062/anomaly-detection-resources/stargazers
-   :alt: GitHub stars
-
-
-.. image:: https://img.shields.io/github/forks/yzhao062/anomaly-detection-resources.svg?color=blue
-   :target: https://github.com/yzhao062/anomaly-detection-resources/network
-   :alt: GitHub forks
-
-
-.. image:: https://img.shields.io/github/license/yzhao062/anomaly-detection-resources.svg?color=blue
-   :target: https://github.com/yzhao062/anomaly-detection-resources/blob/master/LICENSE
-   :alt: License
-
-
-.. image:: https://awesome.re/badge-flat2.svg
-   :target: https://awesome.re/badge-flat2.svg
-   :alt: Awesome
-
 
 ----
 
